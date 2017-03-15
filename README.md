@@ -44,4 +44,4 @@ Alternatively in Linux the play.sh script could be used. As an example...
 ```
 
 # Contribution
-Although this is a silly project with no real purpose, there might be some impovements or errors, especially on windows, and your contribution is deeply appreciated.
+Although this is a silly project with no real purpose, there might be some impovements or errors, especially on windows, and your contribution is deeply appreciated. Ideally someone could contribute a windows batch or powershell equivalent of the play.sh script.
