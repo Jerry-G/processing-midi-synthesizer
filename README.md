@@ -29,18 +29,18 @@ This will produce "player.pde" file. To run that you must open processing then o
 
   Linux
 ```
-processing-java --sketch=./"your directory here"/player/ --run
+$ processing-java --sketch=./"your directory here"/player/ --run
 ```
   Windows (presumably)
 ```
-processing-java.exe --sketch=.\"your directory here"\player\ --run
+> processing-java.exe --sketch=.\"your directory here"\player\ --run
 ```
 
 Note that this assumes that processing-java is in your linux /usr/local/bin directory or windows $PATH equivalent. Also note that this requires that the player.pde file be in a directory named "player" because processing requires that.
 
 Alternatively in Linux the play.sh script could be used. As an example...
 ```
-./play.sh ./example-csv/heart-and-soul.csv
+$ ./play.sh ./example-csv/heart-and-soul.csv
 ```
 
 # Contribution
