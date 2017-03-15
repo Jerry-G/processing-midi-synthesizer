@@ -20,7 +20,7 @@ Once done a new window will appear. Type "minim" in the search bar, click on the
 
 
 # Usage
-First you must compile and run sound.java
+First you must compile and run sound.java and be certain that there is a file named play.csv in the same directory.
 ```
 javac sound.java
 java sound
