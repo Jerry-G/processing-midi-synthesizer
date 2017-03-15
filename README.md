@@ -31,7 +31,7 @@ This will produce "player.pde" file. To run that you must open processing then o
 ```
 processing-java --sketch=./"your directory here"/player/ --run
 ```
-  Windows
+  Windows (presumably)
 ```
 processing-java.exe --sketch=.\"your directory here"\player\ --run
 ```
