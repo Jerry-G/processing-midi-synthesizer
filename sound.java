@@ -33,10 +33,6 @@ public class sound {
 		file.println("Oscil       wave8;");
 		file.println("Oscil       wave9;");
 		file.println("Oscil       wave10;");
-		file.println("Oscil       wave11;");
-		file.println("Oscil       wave12;");
-		file.println("Oscil       wave13;");
-		file.println("Oscil       wave14;");
 		file.println("");
 		file.println("void setup()");
 		file.println("{");
