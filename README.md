@@ -26,6 +26,7 @@ javac sound.java
 java sound
 ```
 This will produce "player.pde" file. To run that you must open processing then open the pde and hit the play button found in the top left-hand corner. Alternatively in you could run the file processing's own "processing-java" file whitch looks like...
+
   Linux
 ```
 processing-java --sketch=./"your directory here"/player/ --run
@@ -35,6 +36,12 @@ processing-java --sketch=./"your directory here"/player/ --run
 processing-java.exe --sketch=.\"your directory here"\player\ --run
 ```
 
-Note that this assumes that processing-java is in /usr/local/bin or windows $PATH equivalent. Also note that this requires that the player.pde file be in a directory named "player" because processing requires that.
+Note that this assumes that processing-java is in your linux /usr/local/bin directory or windows $PATH equivalent. Also note that this requires that the player.pde file be in a directory named "player" because processing requires that.
 
+Alternatively in Linux the play.sh script could be used. As an example...
+```
+./play.sh ./example-csv/heart-and-soul.csv
+```
 
+# Contribution
+Although this is a silly project with no real purpose, there might be some impovements or errors, especially on windows, and your contribution is deeply appreciated.
