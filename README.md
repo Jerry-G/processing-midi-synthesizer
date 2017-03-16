@@ -42,6 +42,7 @@ Alternatively in Linux the play.sh script could be used. As an example...
 ```
 $ ./play.sh ./example-csv/heart-and-soul.csv
 ```
+Note the play.sh file will require you editing in the line that calls the processing-java program.
 
 # Contribution
 Although this is a silly project with no real purpose, there might be some impovements or errors, especially on windows, and your contribution is deeply appreciated. Ideally someone could contribute a windows batch or powershell equivalent of the play.sh script.
