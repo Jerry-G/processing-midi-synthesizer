@@ -8,7 +8,7 @@ do
 	javac sound.java
 	java sound
 	echo playing $i
-	processing-java --sketch=/home/jg/Documents/player/ --run
+	processing-java --sketch=/your_directory_here/player/ --run
 	sleep 5
 	rm -f player.pde
 	rm -f sound.class
